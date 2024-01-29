@@ -1,0 +1,105 @@
+/* Reset some default styles */
+body, h1, h4, p, label, input {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f4f4;
+  }
+  
+  .signup-box {
+    width: 466px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  h4 {
+    text-align: center;
+    color: #777;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+    color: #555;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+  }
+  
+  input[type="button"] {
+    background-color: #4caf50;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  input[type="button"]:hover {
+    background-color: #45a049;
+  }
+  
+  p {
+    text-align: center;
+    margin-top: 15px;
+    color: #777;
+  }
+  
+  p a {
+    color: #4caf50;
+    text-decoration: none;
+  }
+  
+  p a:hover {
+    text-decoration: underline;
+  }
+  
+  .para-2 {
+    text-align: center;
+    margin-top: 15px;
+    color: #555;
+  }
+  
+  .para-2 a {
+    color: #4caf50;
+    text-decoration: none;
+  }
+  
+  .para-2 a:hover {
+    text-decoration: underline;
+  }
+  .para-2[_ngcontent-ng-c3487610758] {
+    text-align: center;
+    margin-top: -25px;
+    color: #555;
+  }
+
+  .signup-box[_ngcontent-ng-c3748846719]
+{
+  width: 466px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 30px;
+}
+  
